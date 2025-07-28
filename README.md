@@ -5,13 +5,13 @@
   </a>
 </h1>
 
-Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engineer and Data Engineer from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at Capgemini.
+Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Solution Engineer from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at Snowflake.
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I'm studyng Mechanical Engineering
+- 🔭 I'm studyng Machine Learning/AI
 - 👨🏽‍💻 I’m currently working on my own version of the Delta 3d printer [Mini-Kossel](https://github.com/juancv3d/Pulsar_Kossel):wink:
-- 🌱 I’m currently learning Data Engineering/AI
+- 🌱 I’m currently learning free diving and scuba diving 
 - 💬 Ask me about anything!
 - 📫 How to reach me:
   
