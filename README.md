@@ -38,20 +38,20 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Solution Engine
 
 
 
-<h2>&#x1f4c8; GitHub Stats</h2>
+<!-- <h2>&#x1f4c8; GitHub Stats</h2>
 <p align=center>
-  <div align=center style="display: flex; flex-direction: row;">
-    <a href="https://www.3dimpressio.co/" title="Go to Source">
-      <img align="left" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=material-palenight&border=61dafb&hide_border=true" alt="juancv3d" />
-   </a>
-    <a href="https://www.3dimpressio.co/" title="Go to Source">
-      <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=material-palenight&hide=prs&border_color=61dafb&hide_border=true" />
-    </a> 
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juancv3d&theme=material-palenight&hide_border=true&border_color=61dafb" width="100%"/>
-  </p>
-<!--  <div align=center>
+  <div align=center style="display: flex; flex-direction: row;"> 
+    <a href="https://www.3dimpressio.co/" title="Go to Source"> 
+      <img align="left" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=material-palenight&border=61dafb&hide_border=true" alt="juancv3d" /> 
+   </a> 
+    <a href="https://www.3dimpressio.co/" title="Go to Source"> 
+      <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=material-palenight&hide=prs&border_color=61dafb&hide_border=true" /> 
+    </a>  
+  </div> 
+  <br><br><br><br><br><br><br><br><br> 
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juancv3d&theme=material-palenight&hide_border=true&border_color=61dafb" width="100%"/> 
+  </p> 
+  <div align=center> 
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancv3d&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
