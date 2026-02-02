@@ -1,5 +1,3 @@
-[![](https://raw.githubusercontent.com/juancv3d/juancv3d/main/Video.gif)](https://www.3dimpressio.co/)
-
 <!-- Header animado -->
 <div align="center">
   <a href="https://github.com/juancv3d">
