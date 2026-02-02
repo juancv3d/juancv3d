@@ -66,6 +66,8 @@ class SolutionEngineer:
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=flat-square&logo=Raspberry-Pi&color=black)
+![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square&logo=cursor&color=black)
+![Claude](https://img.shields.io/badge/-Claude-000?style=flat-square&logo=anthropic&color=black)
 
 <br/>
 
