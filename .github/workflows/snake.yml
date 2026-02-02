@@ -1,0 +1,35 @@
+# Genera animacion de serpiente comiendo el grafico de contribuciones
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Cada dia a medianoche
+  workflow_dispatch: # Permite ejecucion manual
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: juancv3d
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
