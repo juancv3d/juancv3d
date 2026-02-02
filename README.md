@@ -40,6 +40,13 @@ class SolutionEngineer:
             "AI/ML Solutions"
         ]
     
+    def get_hobbies(self):
+        return [
+            "Advanced Scuba Diver 🤿",
+            "Cybersecurity & Hacking Enthusiast 🔐",
+            "3D Printing & Hardware Tinkering"
+        ]
+    
     def current_focus(self):
         return "Helping customers unlock the power of the Data Cloud ❄️"
 ```
