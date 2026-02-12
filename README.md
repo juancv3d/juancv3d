@@ -1,7 +1,7 @@
 <!-- Header animado -->
 <div align="center">
   <a href="https://juancamilo.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hey%2C+I'm+Juan+Camilo+%F0%9F%91%8B;Solution+Engineer+%40+Snowflake" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=29B5E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hey%2C+I'm+Juan+Camilo+%F0%9F%91%8B;Solution+Engineer+%40+Snowflake&v=1" alt="Typing SVG" />
   </a>
 </div>
 
